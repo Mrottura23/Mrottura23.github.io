@@ -43,25 +43,25 @@ html {
     color: #FFF;
 }
 .welcome-section {
-    height: 100%;
+    height: 50%;
     padding-top: 100px;
     text-align: left;
     background: #fff;
 }
 .about-section {
-    height: 105%;
+    height: 110%;
     padding-top: 30px;
     text-align: left;
     background: #EFDECD;
 }
 .interest-section {
-    height: 160%;
+    height: 150%;
     padding-top: 30px;
     text-align: left;
     background: #fff;
 }
 .ideal-section {
-    height: 130%;
+    height: 120%;
     padding-top: 30px;
     text-align: left;
     background: #EFDECD;
